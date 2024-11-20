@@ -7,7 +7,7 @@ Projede Python programlama dili ve ilgili veri bilimi kütüphaneleri kullanılm
 
 # Veri Seti Hakkında
 
-- **Kaynak**: [Kaggle - EUR/USD Forex Pair Historical Data]((https://www.kaggle.com/datasets/imetomi/eur-usd-forex-pair-historical-data-2002-2019))
+- **Kaynak**: [Kaggle - EUR/USD Forex Pair Historical Data](https://www.kaggle.com/)
   - **Dosyalar**:
   - `eurusd_hour.csv`: Saatlik döviz verileri.
   - `eurusd_minute.csv`: Dakikalık döviz verileri.
