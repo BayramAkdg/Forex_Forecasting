@@ -1,3 +1,9 @@
+Kaggle Projesi ve Hesap Linkleri
+Proje Linki: Forex Forecasting Kaggle Projesi
+Bu proje, EUR/USD döviz kuru tahmini için derin öğrenme modelleri ve veri analizi adımlarını içerir.
+
+Kaggle Hesabım: Bayram Akdağ Kaggle Profili
+
 # EUR/USD Forex Tahmin Projesi
 
 Bu proje, EUR/USD döviz çifti üzerinde saatlik veriler kullanarak gelecekteki döviz kurunu tahmin etmek için bir LSTM (Long Short-Term Memory) modeli geliştirmeyi amaçlamaktadır.
