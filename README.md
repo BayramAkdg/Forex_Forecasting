@@ -1,8 +1,8 @@
 Kaggle Projesi ve Hesap Linkleri
-Proje Linki: Forex Forecasting Kaggle Projesi
+Proje Linki: [Forex Forecasting Kaggle Projesi](https://www.kaggle.com/code/bayramakdag/forex-forecasting)
 Bu proje, EUR/USD döviz kuru tahmini için derin öğrenme modelleri ve veri analizi adımlarını içerir.
 
-Kaggle Hesabım: Bayram Akdağ Kaggle Profili
+Kaggle Hesabım: [Bayram Akdağ Kaggle Profili](https://www.kaggle.com/bayramakdag)
 
 # EUR/USD Forex Tahmin Projesi
 
